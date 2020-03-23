@@ -1,6 +1,6 @@
 //
 //  main.c
-//  Atividade 14
+//  Atividade de do-while
 //  Quadrado de cada numero da sequencia
 //  Created by Danilo Leonardi on 22/03/20.
 //  Copyright © 2020 Danilo Leonardi. All rights reserved.
