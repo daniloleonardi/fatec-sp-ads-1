@@ -1,7 +1,7 @@
 //
 //  main.c
-//  Atividade 11
-//  Rodízio
+//  Atividade de switch case
+//  Rodízio de SP
 //  Created by Danilo Leonardi on 22/03/20.
 //  Copyright © 2020 Danilo Leonardi. All rights reserved.
 //
