@@ -2,7 +2,7 @@
 
 Scripts concluídos no meu primeiro semestre de ADS na Fatec SP
 
-Dusciplina: Linguagem de Programação
+Disciplina: Linguagem de Programação
 
 Linguagem: c
 
